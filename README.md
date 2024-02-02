@@ -5,3 +5,5 @@ P. Pinson, Wind energy: Forecasting challenges for its operational management, S
 (https://sites.google.com/site/datasmopf/wind-scenarios) 
 
 https://open-meteo.com/en/docs/historical-weather-api
+
+https://drive.google.com/drive/folders/1PuO2K176yYqUmtbyJp0oscCwrkW8r-eA
