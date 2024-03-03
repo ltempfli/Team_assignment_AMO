@@ -8,13 +8,14 @@ Solution Approaches:
 * Robust Optimization
 * Benders Decomposition
 
+<br>
 
 Programming Languages:
 
 * Julia (Models.ipynb)
 * Python (Scenario_Generatio.ipynb)
 
-
+<br>
 
 Data utilized in this repository:
 
