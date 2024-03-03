@@ -9,6 +9,13 @@ Solution Approaches:
 * Benders Decomposition
 
 
+Programming Languages:
+
+* Julia (Models.ipynb)
+* Python (Scenario_Generatio.ipynb)
+
+
+
 Data utilized in this repository:
 
 Original datasets from: Pinson, P. (2013). Wind Energy: Forecasting Challenges for Its Operational Management. Statistical Science, 28(4). https://doi.org/10.1214/13-STS445
