@@ -12,8 +12,7 @@ Solution Approaches:
 
 Programming Languages:
 
-* Julia (Models.ipynb)
-* Julia (Benders_Decomposition.ipynb)
+* Julia (Models.ipynb, Benders_Decomposition.ipynb)
 * Python (Scenario_Generatio.ipynb)
 
 <br>
